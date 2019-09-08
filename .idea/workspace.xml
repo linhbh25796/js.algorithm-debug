@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0db7618-bdee-4b7b-8bc7-9dfffcc20058" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Debug.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiChuyenDoiTuong/Hero.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiChuyenDoiTuong/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KiemTraKyTuDauTien/test_first_char.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ValidateClass/.idea/ValidateClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ValidateClass/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ValidateClass/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ValidateClass/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ValidateClass/validate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ValidateEmail/.idea/ValidateEmail.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ValidateEmail/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ValidateEmail/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ValidateEmail/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ValidateEmail/validate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ValidatePhoneNumber/.idea/ValidatePhoneNumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ValidatePhoneNumber/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ValidatePhoneNumber/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ValidatePhoneNumber/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ValidatePhoneNumber/validate.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="F:/" />
+  </component>
+  <component name="ProjectId" id="1QY4t2drfY9Oqn8nCleIAqyYFPY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="debug.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Debug/debug.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.debug.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0db7618-bdee-4b7b-8bc7-9dfffcc20058" name="Default Changelist" comment="" />
+      <created>1567934406203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567934406203</updated>
+      <workItem from="1567934407253" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
